@@ -1,4 +1,26 @@
 # this project is meant to be edited by two people
 # as a get-used-to-github exercise
 
+# this is a printing statement
 print("Here we go!")
+
+# this is an empty list
+our_top_20 = []
+
+# this is a list with my Top 10 Desserts
+my_top_10 = ["Cinnamon Buns", "Banoffee Pie", "White Chocolate Cookies", "Brigadeiro", "Candy Apple Truffles",
+             "Chocolate Chip Ice Cream", "Apple and Cinnamon Popcorn", "Raspberry Donuts", "White Chocolate Brownies", "Quindim"]
+
+# this adds my Top 10 to the empty list
+our_top_20.append(my_top_10)
+
+# fill the following list with your Top 10 Desserts
+guest_top_10 = []
+
+# this will add your Top 10 the list
+our_top_20.append(guest_top_10)
+
+# and now a final statement
+print("These are the top 20 desserts in the world! " + str(our_top_20))
+
+# add some code if you feel like it!
