@@ -15,7 +15,8 @@ my_top_10 = ["Cinnamon Buns", "Banoffee Pie", "White Chocolate Cookies", "Brigad
 our_top_20.append(my_top_10)
 
 # fill the following list with your Top 10 Desserts
-guest_top_10 = []
+guest_top_10 = ["Lemon Pie", "Passion Fruit Ice Cream", "Sweet Popcorn", "Chocolate", "Cheesecake",
+                "Milk Cream Petit Gateau","Quindim","Azedinhas","Mousse Chocolate","Brigadeiro"]
 
 # this will add your Top 10 the list
 our_top_20.append(guest_top_10)
